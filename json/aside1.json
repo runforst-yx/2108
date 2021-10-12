@@ -1,0 +1,248 @@
+[
+    {
+        "id":201,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f33903e1162959f500360a39896f2306.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"2599",
+        "mesge1":"「购机可享6期免息，信用卡分期最高立减200元；评价晒单前5000名送Xiaomi Civi 马卡龙色系硅胶保护壳」",
+        "mesge2":"轻薄潮流设计 | 丝绒AG工艺 | 原生美肌人像 | 像素级肌肤焕新技术 | 3200万高清质感自拍 | 双柔光灯+自动对焦 | 3D曲面OLED柔性屏 | 120Hz+Dolby Vision | 4500mAh 大电量 | 55W有线闪充 | 立体声双扬声器 | 多功能NFC",
+        "name":"xiaomi Civi",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1632713426.30988142.jpg"
+    },
+    {
+        "id":202,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fa2bae1f43611e80a8e4877719c76bdb.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/mix4/banner.jpeg",
+        "price":"4999",
+        "mesge1":"「MiCare立省50元；最高享24期分期免息；建行信用卡分期最高减216元」",
+        "mesge2":"CUP全面屏 | 真彩原色 + 120Hz | 一体化轻量陶瓷机身 | 高通骁龙™888+ | WiFi 6 增强版 | 石墨烯「冰封」散热系统4500mAh 大电量 | 常温 120W 快充 | 50W 无线快充 | 1 亿像素电影相机",
+        "name":"Xiaomi MIX 4",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628588553.56819324.jpg"
+    }
+    ,{
+        "id":203,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ab345272bf9894bb8269d4901344b068.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/mixfold/s3.jpg",
+        "price":"9999",
+        "mesge1":"「米金兑换1000元优惠券；购机赠价值399元芳纶纤维保护壳」",
+        "mesge2":"8.01''折叠大屏｜澎湃C1自研专业影像芯片｜液态镜头｜1亿像素｜骁龙888｜67W快充｜5020mAh超大电池｜LPDDR5满血版｜WiFi6（增强版）｜哈曼卡顿立体声四扬声器",
+        "name":"MIX FOLD 折叠屏手机",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1617098695.73526265.jpg"
+    }
+    ,{
+        "id":204,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a1241b5a94ba1739e85f72d46592af0e.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/mi11ultra/section1-1.jpg",
+        "price":"5499",
+        "mesge1":"「米金兑换200元优惠券；信用卡分期至高立省216元；+99元得129元冰封散热背夹；赠897元善诊体检卡套餐 」",
+        "mesge2":"1/1.12''GN2｜128°超广角｜120X超长焦｜2K四微曲屏｜骁龙888｜IP68级防水｜67W 有线闪充｜67W 无线闪充｜10W 无线反充｜5000mAh超大电池｜LPDDR5｜WiFi6（增强版）｜哈曼卡顿音频认证｜立体声双扬声器",
+        "name":"小米11 Ultra",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1617008568.53329550.jpg"
+    }
+    ,{
+        "id":205,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6cf44dfe89111cb35e1a2211481ff546.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/mi11Pro/section1-1.jpg",
+        "price":"4799",
+        "mesge1":"「领券下单立减400元；加849元得MiCare保障服务；+99元得冰封散热背夹」",
+        "mesge2":"1/1.12''GN2｜骁龙888｜2K四微曲屏｜IP68级防水｜67W 有线闪充｜67W 无线闪充｜10W 无线反充｜5000mAh超大电池｜LPDDR5｜WiFi6（增强版）｜哈曼卡顿音频认证｜立体声双扬声器",
+        "name":"小米11 Pro",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1617008373.36569503.jpg"
+    }
+    ,{
+        "id":206,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/72bd70039670d29610569421f753fcb6.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/mi11youth/section1.jpg",
+        "price":"1999",
+        "mesge1":"「优惠立减100元，到手价1999元起！购机最高可享12期免息；赠Keep会员7天体验卡；+29元得生生不息果冻包」",
+        "mesge2":"轻薄、多彩 / 骁龙780G / 专业电影相机，前置超级夜景 / AMOLED 柔性直屏 / 超线性立体声双扬声器",
+        "name":"小米11 青春版",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1617014229.6133749.jpg"
+    }
+    ,{
+        "id":207,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c89e7b3a3495acaa0a4df271d9da59ea.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"2799",
+        "mesge1":"「10.1-10.10全版本优惠200元！至高享24期免息，赠蓝牙耳机，信用卡分期至高减200元，+99元得立式风冷无线充」",
+        "mesge2":"骁龙870 | 对称式双扬立体声 | 1亿像素 8K电影相机 | 33W有线快充 | 30W无线快充 | 10W反向充电 | 4780mAh超大电池 | LPDDR5+UFS3.0+Wi-Fi 6 | VC液冷散热 | 双模5G",
+        "name":"小米10S",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1615342330.97933727.jpg"
+    }
+    ,{
+        "id":208,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a51c1afa4db8e47e62fad1f6fa4a8970.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"3599",
+        "mesge1":"「10.1-10.10全版本优惠200元！至高享24期免息，赠手机壳，【全款支付套装】赠果冻包，+99元得会员限定卫衣」",
+        "mesge2":"骁龙888｜2K AMOLED 四曲面柔性屏｜1亿像素三摄｜时尚轻薄机身｜55W 有线闪充｜50W 无线闪充｜10W 无线反充｜LPDDR5｜WiFi6（增强版）｜视频「超级夜景」｜哈曼卡顿音频认证｜立体声双扬声器",
+        "name":"小米11",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628157095.51371517.jpg"
+    }
+    ,{
+        "id":209,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"3999",
+        "mesge1":"",
+        "mesge2":"骁龙865处理器 / 1亿像素8K电影相机 / 双模5G / 新一代LPDDR5内存 / 对称式立体声 / 90Hz刷新率+180Hz采样率 / UFS 3.0高速存储 / 全面适配Wi-Fi 6 / 超强VC液冷散热 / 30W极速闪充+30W无线闪充+10W无线反充 / 4780mAh大电量 / 多功能NFC",
+        "name":"小米10",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581494534.0687640.jpg"
+    }
+    ,{
+        "id":210,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0dfda044e0ddcfb3ef63e7e2b87daea3.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"4499",
+        "mesge1":"「享花呗12期分期免息！磁动力肩建，突破战力」",
+        "mesge2":"骁龙888 | 增强版UFS3.1+SSD磁盘阵列系统 | 高品质双扬声器，DXOMARK音频总分第一名 | 120W极速闪充+4500mAh双电竞电池 | 磁动力升降肩键 | 144Hz 三星E4屏幕",
+        "name":"黑鲨4 Pro",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1616411328.3867553.png"
+    }
+    ,{
+        "id":211,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7b7e7228d1708665b7e6fe5e07ad4929.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"2999",
+        "mesge1":"「赠冰封散热背夹标准版 ！享12期分期免息！分期满减至高100元」",
+        "mesge2":"骁龙870 | 120W极速闪充+4500mAh双电竞电池 | 磁动力升降肩键 | 720Hz触控采样率+144Hz 三星E4屏幕 | 高品质双扬声器",
+        "name":"黑鲨4",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1616411535.9814677.png"
+    }
+    ,{
+        "id":212,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/69a0df49cff71107977bbe3b48af15fa.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/redmik30s/index_header_bg.png",
+        "price":"2499",
+        "mesge1":"",
+        "mesge2":"骁龙865 / 144Hz[7档]变速高刷屏 / 专业原色显示+全局护眼 / 5000mAh大电量+33W快充 / 6400万AI三摄 / 立体声双扬声器+X轴马达 / LPDDR5+UFS3.1+WiFi6",
+        "name":"Redmi K30S 至尊纪念版",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1603708852.79397532.jpg"
+    }
+    ,{
+        "id":213,
+        "src":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8ade0163e9fdbd92a4b7d7ee3aeab905.jpg?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"21",
+        "mesge1":"",
+        "mesge2":"小米云容量扩容 / 专享更大小米云空间",
+        "name":"小米云服务空间月卡",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1600176290.50372543.png"
+    }
+    ,{
+        "id":214,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0803dc7125ffa3447b04b1ae60f57a2b.jpg?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"2199",
+        "mesge1":"",
+        "mesge2":"120Hz弹出全面屏 / 天玑1000+旗舰处理器 / 索尼6400万四摄 / 立体声双扬声器 / 4500mAh+33W闪充 / 双模5G / 多功能NFC / 线性震动马达 / 红外遥控",
+        "name":"Redmi K30 至尊纪念版",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1597138340.17978744.jpg"
+    }
+    ,{
+        "id":215,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/56bb7e2d44cef71c3afedaeae3d98927.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"1599",
+        "mesge1":"「全版本优惠100元；赠Keep 7日会员；赠897元善诊体检套餐；光大信用卡分期支付满1000元减80元，数量有限」",
+        "mesge2":"天玑1100年度旗舰芯｜VC液冷散热｜120Hz旗舰变速金刚屏 ｜67W 闪充 5000mAh 大电池｜JBL 立体声双扬声器｜UFS 3.1｜6400万AI三摄｜多功能NFC 3.0",
+        "name":"Redmi Note 10 Pro",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1621955784.84614979.jpg"
+    }
+    ,{
+        "id":216,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/79e2935264bf9247aa7512e330112820.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"1099",
+        "mesge1":"「购机赠价值897元善诊三人体检套餐；加39元得小米新定制T恤；光大信用卡分期支付满1000元减80元，数量有限」",
+        "mesge2":"5G小金刚｜旗舰长续航｜双5G待机｜5000mAh充电宝级大容量｜4800万高清相机｜天玑700八核高性能处理器",
+        "name":"Redmi Note 10 5G",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1621955684.40846624.jpg"
+    }
+    ,{
+        "id":217,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ab956ee82c24bdd83d21bc212aad3eb5.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"2499",
+        "mesge1":"「至高优惠200元，浦发信用卡分期满2000元减100元」",
+        "mesge2":"天玑1200｜年度旗舰处理器｜弹出式肩键｜航天立体散热｜JBL立体声双扬声器｜64MP旗舰三摄",
+        "name":"Redmi K40 游戏增强版",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1627353447.30892610.png"
+    }
+    ,{
+        "id":218,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0e5aa3cab478f5eeba1c7d4cf25cba9a.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/redmik40ultra-k40pro/banner.jpg",
+        "price":"2999",
+        "mesge1":"「优惠300元；享6期分期免息；+39元得小米定制T恤；赠价值897元三人体检套餐；赠小米移动流量卡」",
+        "mesge2":"骁龙888 / E4 旗舰直屏 / 120Hz高刷 / 杜比全景声 / 4520mAh大电量 / WiFi 6 增强版 / 7.8mm轻薄机身 / 多功能NFC / 红外遥控",
+        "name":"Redmi K40 Pro 系列",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1614153658.41363669.jpg"
+    }
+    ,{
+        "id":219,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/92fdd051100722d25323e9bd188befc5.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/redmik40/seciton1-1.jpg",
+        "price":"2499",
+        "mesge1":"「12GB优惠200元；浦发信用卡分期满减100元；享延保、碎屏保8折优惠；+39元得小米定制T恤」",
+        "mesge2":"骁龙870｜新一代 E4 AMOLED旗舰直屏｜杜比全景声｜7.8mm轻薄机身设计｜4520mAh大电量｜360Hz 三指触控 ｜120Hz 高刷新｜X轴线性马达｜ NFC｜红外遥控",
+        "name":"Redmi K40",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1619422149.16423896.jpg"
+    }
+    ,{
+        "id":220,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/77bfd346ad97807237beca297cfe2fba.png?thumb=1&w=45&h=45",
+        "src1":"https://i1.mifile.cn/f/i/2019/redmi1014a/part2.png",
+        "price":"599",
+        "mesge1":"「赠小米移动流量卡，享特惠价加购」",
+        "mesge2":"6.22水滴全面屏 | 5000mAh大电量 | 支持18W快充 | 1200万AI相机 | 人脸解锁 | 骁龙八核处理器 | 超大音量",
+        "name":"Redmi 8A",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1574763049.66425763.jpg"
+    }
+    ,{
+        "id":221,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/76378ce289a36fcfa29f704ba90b4155.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/redminote9pro/section1-1.jpg",
+        "price":"1499 ",
+        "mesge1":"「Note 9 Pro 8G+128G/8G+256G优惠立减100元；+39元得小米定制T恤；光大信用卡分期满1000减80元",
+        "mesge2":"一亿像素夜景相机｜120Hz六档变速高刷屏｜国内首发骁龙750G｜6.67小孔径全面屏｜立体声双扬声器｜4820mAh+33W闪充｜多功能NFC｜线性马达｜红外遥控｜全新MIUI 12系统",
+        "name":"Note 9 Pro 5G",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606288801.46329073.jpg"
+    }
+    ,{
+        "id":222,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/970c6b287eb89620f5ee8e2b347f6f3d.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/redminote9/pv.jpg",
+        "price":"1199 ",
+        "mesge1":"「+39元得小米定制T恤；299米金兑换10元优惠券；光大信用卡分期满1000减80元；赠Keep会员7天体验卡」",
+        "mesge2":"天玑 800U处理器｜4800万像素主摄｜6.53英寸超高清小孔全面屏｜小金刚品质｜5000mAh+18W快充｜双5G待机｜侧边指纹识别｜线性马达｜红外遥控",
+        "name":"Note 9 5G",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606288963.72951431.jpg"
+    }
+    ,{
+        "id":223,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/947721c8bc4a4ecc3bca17237ee64dea.png?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/redminote9-4g/s1_m.png",
+        "price":"899",
+        "mesge1":"「+39元得小米定制T恤； 299米金兑换10元优惠券；农行信用卡快捷支付满299减30元，数量有限」",
+        "mesge2":"6000mAh超长续航｜4800万超清三摄｜全高清6.53英寸护眼屏｜骁龙662处理器｜18W快速充电｜立体声双扬声器｜侧边指纹识别｜90%高屏占比｜康宁大猩猩保护玻璃",
+        "name":"Note 9 4G",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1606289221.80685857.jpg"
+    }
+    ,{
+        "id":224,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1db88cd66ff1a6a3e75116988b7f3e12.jpg?thumb=1&w=45&h=45",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivibfbefe/section1-1.png",
+        "price":"599 ",
+        "mesge1":"「购机赠送Keep会员7天体验卡，赠小米移动流量卡」",
+        "mesge2":"6.53超大护眼屏幕｜ 5000mAh长循环大电量｜ 大音量扬声器 ｜1300万AI相机 ｜人脸解锁｜G25八核处理器",
+        "name":"Redmi 9A",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1595400896.07921552.jpg"
+    }
+]
+
+
+
+
+
+

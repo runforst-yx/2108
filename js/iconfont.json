@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5027",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "3448",
+      "unicode_decimal": 13384
+    },
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "f0106",
+      "unicode_decimal": 983302
+    },
+    {
+      "icon_id": "201525",
+      "name": "礼物 活动",
+      "font_class": "liwuhuodong",
+      "unicode": "f01da",
+      "unicode_decimal": 983514
+    },
+    {
+      "icon_id": "637797",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "720958",
+      "name": "个人中心",
+      "font_class": "xiazai",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "880429",
+      "name": "扳手",
+      "font_class": "editor2",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "2076190",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    },
+    {
+      "icon_id": "2076258",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e88f",
+      "unicode_decimal": 59535
+    },
+    {
+      "icon_id": "3456452",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "4266155",
+      "name": "返回顶部",
+      "font_class": "fanhuidingbu",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "6102942",
+      "name": "七天无理由退换",
+      "font_class": "qitianwuliyoutuihuan",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "6711896",
+      "name": "第十五类",
+      "font_class": "dishiwulei",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "7588137",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "12754195",
+      "name": "右箭头",
+      "font_class": "youjiantou_huaban",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "20402187",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e6f1",
+      "unicode_decimal": 59121
+    }
+  ]
+}

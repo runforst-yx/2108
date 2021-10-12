@@ -1,0 +1,84 @@
+.img-left {
+    width: 375px;
+    background: url(https://cdn.web-global.fds.api.mi-img.com/mcfe--mi-account/static/static/media/banner.4994397e.jpg);
+    background-size: cover;
+    background-position: 50%;
+    box-sizing: border-box;
+    float: left;
+}
+
+.img-right {
+    max-width: 1105px;
+    position: fixed;
+    left: 375px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.img-right-t {
+    width: 100%;
+    padding: 20px;
+    height: 40px;
+}
+
+.img-right-t>div {
+    float: left;
+    line-height: 40px;
+    font-size: 26px;
+    font-weight: 500;
+    color: #333;
+}
+
+.img-right-t img {
+    width: 40px;
+    height: 40px;
+}
+
+.img-right-t ul {
+    float: right;
+}
+
+.img-right-t ul li {
+    float: left;
+    font-size: 14px;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-weight: 400;
+    color: #838383;
+    line-height: 40px;
+}
+
+.img-right-t ul li a:hover {
+    color: #ff5c00;
+    ;
+}
+
+.img-right-t ul li a {
+    color: #838383;
+}
+
+
+/* 注册 */
+.img-right-b {
+    text-align: left;
+    position: absolute;
+    left: 50%;
+}
+
+.img-right-b-register>input {
+    height: 25px;
+    line-height: 25px;
+    margin: 10px 0;
+    display: block;
+}
+.img-right-b span{
+    display: inline-block;
+    height: 25px;
+    margin: 0 10px;
+    line-height: 25px;
+    vertical-align: auto;
+}
+.img-right-b .sex-radio{
+    display: inline-block;
+}

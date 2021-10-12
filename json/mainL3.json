@@ -1,0 +1,22 @@
+[{
+        "id":30 ,
+        "src":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/807f30dc8d3aafcaf4ce34d1556a6f5a.jpg?thumb=1&w=265&h=340" ,
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/mispeaker/sound39b751/section-01.jpg" ,
+        "price":"2499 " ,
+        "mesge1": "心率控速｜全屋互联｜极简折叠｜超强承重",
+        "mesge2": "心率控速｜全屋互联｜极简折叠｜超强承重",
+        "name": "米家跑步机",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1632621708.90167812.jpg"
+    }, {
+        "id": 31,
+        "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ec383d223d9f38f442268df684c526f6.png?thumb=1&w=265&h=340",
+        "src1":"https://cdn.cnbj1.fds.api.mi-img.com/product-images/mispeaker/sound39b751/section-01.jpg" ,
+        "price":"499 " ,
+        "mesge1": "小米高保真智能音箱",
+        "mesge2":"小米高保真智能音箱" ,
+        "name": "Xiaomi Sound",
+        "shoppingImg":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628509596.15536259.jpg"
+    }
+
+
+]

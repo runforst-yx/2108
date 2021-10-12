@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>小米购物车最后修改，打死不改了</title>
+    <link rel="stylesheet" href="jq/jquery-ui.min.js">
+    <link rel="stylesheet" href="css/iconfont.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/shoppingCar.css">
+
+</head>
+
+<body>
+    <!-- 购物车 -->
+    <div id="shopping-word" class="container clearfix">
+        <a href="index.html"><img src="mi/nav/images/icon-xm.png" alt=""></a>
+        <p>我的购物车</p>
+    </div>
+    <!-- table -->
+    <div id="shopping-table" class="container">
+        <table cellpadding="20" cellspacing="0" border='1'>
+            <thead>
+                <th class="shopping-table-box">
+                    <input type="checkbox" class="shopping-table-check-all"> 全选</th>
+                <th class="shopping-table-img"></th>
+                <th class="shopping-table-name">商品名称</th>
+                <th class="shopping-table-price">单价</th>
+                <th class="shopping-table-num">数量</th>
+                <th class="shopping-table-total">小计</th>
+                <th class="shopping-table-done">操作</th>
+            </thead>
+            <tbody>
+
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td class="tfoot-Select"></td>
+                    <td class="tfoot-Total"></td>
+                    <td class="tfoot-TotalNum"></td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+
+
+    <!-- 页脚 -->
+    <!-- 页脚文本导航部分 -->
+    <div id="text" class="container">
+        <!-- 顶部文字导航部分 -->
+        <div id="text_top" class="container">
+            <ul>
+                <li><a href="https://www.mi.com/service/quick-repair"><span class="iconfont"> &#xe62e;</span>预约维修服务</a>
+                </li>
+                <li><a href="https://www.mi.com/service/exchange#back"><span class="iconfont">
+                            &#xe63d;</span>7天无理由退货</a></li>
+                <li><a href="https://www.mi.com/service/exchange#back"><span class="iconfont">
+                            &#xe685;</span>15天免费换货</a></li>
+                <li><a href="https://www.mi.com/service/buy/Postal%20policy"><span class="iconfont">
+                            &#xf01da;</span>满69包邮</a></li>
+                <li><a href="https://www.mi.com/service/sitelist"><span class="iconfont"> &#xe6f1;</span>520余家售后网点</a>
+                </li>
+            </ul>
+        </div>
+        <!-- 尾部文字导航部分 -->
+        <div class="text_bottom container">
+            <!-- 左侧ul标签 -->
+            <div class="bottom_left">
+                <ul>
+                    <li><span>帮助中心</span> </li>
+                    <li> <a href="https://www.mi.com/service/account/Account%20registration">账户管理</a> </li>
+                    <li> <a href="https://www.mi.com/service/buy/SalesTime">购物指南</a> </li>
+                    <li> <a href="https://www.mi.com/service/order/sendprogress">订单操作</a> </li>
+
+                </ul>
+                <ul>
+                    <li><span>服务支持</span></li>
+                    <li> <a href="https://www.mi.com/service/exchange">售后政策</a> </li>
+                    <li> <a href="https://www.mi.com/service">自助服务</a> </li>
+                    <li> <a href="https://www.mi.com/service/download">相关下载</a> </li>
+                </ul>
+                <ul>
+                    <li><span>线下门店</span></li>
+                    <li> <a href="https://www.mi.com/service/mihome/list">小米之家</a> </li>
+                    <li> <a href="https://www.mi.com/service/sitelist">服务网点</a> </li>
+                    <li> <a href="https://www.mi.com/service/family-location">授权体验店</a> </li>
+                </ul>
+                <ul>
+                    <li><span>关于小米</span></li>
+                    <li> <a href="https://www.mi.com/about">了解小米</a> </li>
+                    <li> <a href="https://hr.xiaomi.com/">加入小米</a> </li>
+                    <li> <a href="https://company.mi.com/zh-cn/ir/indexContent/index.html">投资者关系</a> </li>
+                    <li> <a href="https://www.mi.com/csr/">企业社会责任</a> </li>
+                    <li> <a href="https://www.mi.com/integrity">廉洁举报</a> </li>
+                </ul>
+                <ul>
+                    <li><span>关注我们</span></li>
+                    <li> <a
+                            href="https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2Fxiaomishangcheng&domain=.weibo.com&sudaref=https%3A%2F%2Fwww.mi.com%2F&ua=php-sso_sdk_client-0.6.36&_rand=1633834669.7055">新浪微博</a>
+                    </li>
+                    <li> <a href="">官方微信</a> </li>
+                    <li> <a href="https://www.mi.com/about/contact">联系我们</a> </li>
+                    <li> <a href="https://www.mi.com/foundation/index">公益基金会</a> </li>
+                </ul>
+                <ul>
+                    <li><span>特色服务</span></li>
+                    <li> <a href="https://www.mi.com/order/fcode">F码通道</a> </li>
+                    <li> <a href="https://www.mi.com/order/giftcode">礼物码</a> </li>
+                    <li> <a href="https://www.mi.com/service/imei">防伪查询</a> </li>
+                </ul>
+            </div>
+            <!-- 右侧客服部分 -->
+            <div class="bottom_right">
+                <div>
+                    <p>400-100-5678</p>
+                    <p>8:00-18:00(仅收市话费)</p>
+                    <p><button><span class="iconfont">&#xf0106;</span>人工客服</button></p>
+                    <p>关注小米：<span class="iconfont">&#xe629;</span></p>
+                    <span class="iconfont">&#xf0106;</span>
+                    <img class="bottom_right_img" src="mi/小米二维码/01.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+        <div id="footer-img" class="container clearfix">
+            <img src="mi/nav/images/icon-xm.png" alt="">
+            <ul>
+                <li><a href="index.html">小米商城</a> | <a href="https://home.miui.com/">MIUI</a> | <a
+                        href="https://home.mi.com/index.html">米家</a> | <a href="http://www.miliao.com/">米聊</a> | <a
+                        href="https://www.duokan.com/pc/">多看</a> | <a href="https://game.xiaomi.com/">游戏</a> | <a
+                        href="https://b.mi.com/?client_id=180100031058&masid=17409.0358#/">政企服务</a> | <a
+                        href="https://xiaomi.tmall.com/">小米天猫店</a> | <a
+                        href="https://privacy.mi.com/all/zh_CN/">小米集团隐私政策</a> | <a
+                        href="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f516fe9e2c01.html">小米公司儿童信息保护规则</a> | <a
+                        href="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ded8d0e4a77d.html">小米商城隐私政策</a> | <a
+                        href="https://www.mi.com/about/user-agreement">小米商城用户协议</a> |
+                    <a href="https://static.mi.com/feedback/">问题反馈</a> |<a href=""> Select Location</a></li>
+                <li><a href="http://www.mi.com/beihu">北京互联网法院法律服务工作站</a> | <a href="http://www.cca.org.cn/">中国消费者协会</a>
+                    | <a href="http://www.bj315.org/">北京市消费者协会</a></li>
+                <li class="footer-color">© mi.com 京ICP证110507号 <a
+                        href="https://beian.miit.gov.cn/#/Integrated/index">京ICP备10046444号</a> <a
+                        href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802020134">京公网安备11010802020134号</a>
+                    <a href="https://www.mi.com/culture-license">京网文[2020]0276-042号</a></li>
+                <li class="footer-color"><a href="https://www.mi.com/medical/record">（京）网械平台备字（2018）第00005号</a> <a
+                        href="https://www.mi.com/medical/qualification">互联网药品信息服务资格证 (京)-非经营性-2014-0090</a> <a
+                        href="https://www.mi.com/business-license">营业执照</a> <a
+                        href="https://www.mi.com/medical/list">医疗器械质量公告</a></li>
+                <li class="footer-color"><a
+                        href="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e0c7d4cf3b7cd88de10196e30c92e020.png">增值电信业务许可证</a>
+                    网络食品经营备案 京食药网食备202010048 <a
+                        href="https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c6859168166651511897f54fa1047fe3.png">食品经营许可证</a>
+                </li>
+                <li class="footer-color">违法和不良信息举报电话：171-5104-4404 <a
+                        href="https://www.mi.com/intellectual">知识产权侵权投诉</a>
+                    本网站所列数据，除特殊说明，所有数据均出自我司实验室测试 </li>
+                <li>
+                    <a
+                        href="https://privacy.truste.com/privacy-seal/validation?rid=4fc28a8c-6822-4980-9c4b-9fdc69b94eb8&lang=zh-cn"><img
+                            src="mi/页脚/01.png" alt=""></a>
+                    <a href="https://credit.cecdc.com/CX20120926001783002010.html"><img src="mi/页脚/02.png" alt=""></a>
+                    <a href="https://xyt.xinchacha.com/pcinfo?sn=523009637759455232&certType=6"><img src="mi/页脚/03.png"
+                            alt=""></a>
+                    <a href="https://www.mi.com/service/buy/commitment"><img src="mi/页脚/04.png" alt=""></a>
+                    <a href="https://webcert.cnmstl.net/cert/grade?sn=3af21034e35011eab3ea00163e068ceb"><img
+                            src="mi/页脚/05.png" alt=""></a>
+                </li>
+            </ul>
+        </div>
+        <p>让全球每个人都能享受到科技带来的美好生活</p>
+    </div>
+
+    <script src="js/axios.js"></script>
+    <script src="jq/jquery-2.2.4.js"></script>
+    <script src="jq/jquery-ui.min.js"></script>
+    <script src="layer/layer.js"></script>
+    <script src="layui/layui.js"></script>
+    <script src="js/shoppingCar.js"></script>
+</body>
+
+</html>

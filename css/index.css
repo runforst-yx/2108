@@ -1,0 +1,585 @@
+/* 1 头部 */
+#begin {
+    height: 40px;
+    background-color: #333;
+}
+
+#begin a:hover {
+    color: white;
+}
+
+#header {
+    height: 40px;
+
+}
+
+.header-left {
+    font-size: 12px;
+    height: 40px;
+    line-height: 40px;
+    float: left;
+}
+
+.header-left a,
+.header-right-1 a {
+    color: #b0b0b0;
+}
+
+#header .header-right-1 span,
+.header-left span {
+    margin: 0 0.3em;
+    color: #424242;
+}
+
+.header-right-1 {
+    position: relative;
+    font-size: 12px;
+    height: 40px;
+    line-height: 40px;
+    float: right;
+}
+
+#header .shopping {
+    margin-left: 15px;
+    position: relative;
+    height: 40px;
+    background: rgba(85, 85, 85, 0.3);
+    cursor: pointer;
+    z-index: 100;
+
+}
+
+#header .shopping:hover a {
+    color: red;
+}
+
+
+#header .cars {
+    position: absolute;
+    top: 40px;
+    left: -165px;
+    width: 227px;
+    /* height: 100px; */
+    background-color: #ffffff;
+    box-shadow: 0 5px 3px rgba(0, 0, 0, .3);
+    font-size: 14px;
+    text-align: center;
+    line-height: 100px;
+    display: none;
+}
+
+#header .cars-ul {
+    height: 100%;
+
+}
+
+#header .cars-ul li {
+    text-align: left;
+    width: 280px;
+}
+
+#header .cars-ul-img {
+    width: 50px;
+    height: 50px;
+}
+
+#header .cars-ul-span {
+    font-size: 12px;
+}
+
+/* .shopping:before {
+    font-family: 'icomoon';
+    content: "\e93a";
+} */
+
+#header #shopNum {
+    color: #b0b0b0;
+}
+
+/* 2 导航栏 nav */
+#nav {
+    height: 100px;
+}
+
+#nav .nav-icon a img {
+    float: left;
+    margin-top: 22px;
+    width: 56px;
+    height: 56px;
+}
+
+#nav .nav-ul {
+    height: 100px;
+    float: left;
+    margin-left: 160px;
+    font-size: 16px;
+    line-height: 100px;
+}
+
+#nav .nav-ul li {
+    float: left;
+    margin-right: 20px;
+}
+
+#nav .nav-ul li a:hover {
+    color: #ff6a00;
+}
+
+#nav .nav-btn img {
+    height: 50px;
+    width: 50px;
+}
+
+#nav .nav-div {
+    position: relative;
+    margin-top: 25px;
+    float: right;
+    width: 285px;
+    height: 50px;
+}
+
+#nav .nav-input {
+    /* float: right; */
+    width: 225px;
+    height: 45px;
+}
+
+#nav .nav-span {
+    display: inline-block;
+    width: 50px;
+    border: 1px solid gray;
+    border-left: 0;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    position: absolute;
+    top: 0px;
+}
+
+#nav .nav-span:hover {
+    background-color: orange;
+}
+
+/* 下拉菜单
+ */
+/* 下拉菜单 */
+.sou {
+    position: relative;
+    background-color: tomato;
+}
+
+.bigbox {
+    position: absolute;
+    width: 100%;
+    height: 250px;
+    border-top: 1px solid #ccc;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, .5);
+    display: none;
+    background-color: #FFFFFF;
+    z-index: 4000;
+}
+
+.bigbox .w {
+    height: 250px;
+}
+
+.bigbox li {
+    float: left;
+    width: 200px;
+    height: 250px;
+    padding: 20px 0;
+    text-align: center;
+    margin: 0;
+}
+
+.img {
+    width: 200px;
+    height: 150px;
+    border-right: 1px solid #E0E0E0;
+}
+
+.img img {
+    width: 197px;
+}
+
+.last {
+    border: 0;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.jiage {
+    font-size: 13px;
+    color: #FF4500;
+    margin-top: 10px;
+}
+
+/*3 轮播图 */
+#banner {
+    height: 460px;
+    position: relative;
+}
+
+#banner .banner-screen a img {
+    width: 100%;
+    height: 100%;
+}
+
+#banner .banner-screen {
+    overflow: hidden;
+    height: 460px;
+    position: relative;
+}
+
+#banner .banner-screen-ul li {
+    overflow: hidden;
+    width: 1226px;
+    height: 460px;
+    float: left;
+}
+
+#banner .banner-screen-ul {
+    width: 6130px;
+    position: absolute;
+    /* left: -1226px; */
+    left: -0;
+    top: 0px;
+}
+
+/* 轮播序号 */
+
+#banner .banner-order {
+    position: absolute;
+    left: 87%;
+    top: 90%;
+}
+
+.bannerCurrent {
+    width: 8px;
+    height: 8px;
+    border-radius: 8px;
+    opacity: 0.7;
+    background-color: gray;
+    float: left;
+    margin-left: 10px;
+    cursor: pointer;
+    color: transparent;
+}
+
+
+/* 轮播箭头 */
+#banner-arr {
+    /* display: none; */
+    z-index: 1000;
+}
+
+#banner-arr span {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 234px;
+    top: 50%;
+    margin-top: -20px;
+    background: #000;
+    cursor: pointer;
+    line-height: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-family: '黑体';
+    font-size: 30px;
+    color: #fff;
+    opacity: 0.1;
+    border: 1px solid #fff;
+}
+
+#banner-arr #banner-arrright {
+    right: 5px;
+    left: auto;
+}
+
+
+/* 下拉框 */
+
+
+#banner-select {
+    padding: 20px 0;
+    width: 234px;
+    height: 420px;
+    position: absolute;
+    z-index: 3000;
+}
+
+.banner-select-ul {
+    padding: 20 0;
+    width: 234px;
+    height: 420px;
+}
+
+.banner-select-ul li {
+    width: 230px;
+    height: 42px;
+    background: rgba(105, 101, 101, .6);
+}
+
+.banner-select-ul li a {
+    position: relative;
+    display: block;
+    margin-left: 30px;
+    line-height: 42px;
+    height: 42px;
+    font-size: 16px;
+    color: white;
+}
+
+.banner-select-ul li em {
+    position: absolute;
+    right: 20px;
+}
+
+.banner-select-ul-li:hover {
+    background-color: orange;
+}
+
+.banner-show {
+    display: none;
+    position: absolute;
+    left: 230px;
+    top: 0;
+    width: 1000px;
+    height: 460px;
+    z-index: 2000;
+    background-color: white;
+}
+
+.banner-show ul {
+    float: left;
+    width: 248px;
+    height: 460px;
+}
+
+.banner-show ul li {
+    background-color: transparent;
+    width: 230px;
+    height: 76px;
+
+}
+
+.banner-show ul li a {
+    font-size: 14px;
+    width: 230px;
+    height: 76px;
+    line-height: 76px;
+    color: black;
+}
+
+.banner-show ul li a span:hover {
+    color: orange;
+}
+
+.banner-show ul li a img {
+    width: 40px;
+    height: 40px;
+}
+
+.banner-show ul li a span {
+    margin-left: 12px;
+}
+
+/* 保障服务 */
+#server {
+    margin-top: 20px;
+    width: 1226px;
+    height: 170px;
+}
+
+#server .server-l {
+    float: left;
+    width: 230px;
+    height: 170px;
+    background-color: #5f5750;
+}
+
+.server-l>div {
+    width: 76px;
+    height: 85px;
+    float: left;
+    text-align: center;
+    line-height: 16px;
+}
+
+.server-l>div:hover {
+    filter: brightness(150%);
+}
+
+.server-l>div a {
+    color: gray;
+}
+
+.server-l>div img {
+    width: 24px;
+    height: 24px;
+    /* margin-left: -2px; */
+    margin-top: 15px;
+
+}
+
+.server-l>div p {
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+#server .server-r {
+    float: left;
+    margin-left: 17px;
+    height: 170px;
+    width: 315px;
+}
+
+#server .server-r img {
+    height: 170px;
+    width: 315px;
+}
+
+
+
+/* K40 */
+#K40-html {
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+#K40 {
+    height: 170px;
+}
+
+#K40 img {
+    margin-top: 25px;
+    width: 1226px;
+    height: 120px;
+}
+
+/* 手机 */
+/* 手机文字  */
+#phone-html {
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+#phone {
+    height: 686px;
+
+}
+
+#phoneWord {
+    height: 58px;
+    line-height: 58px;
+}
+
+#phoneWord .phoneWord-l {
+    float: left;
+    font-weight: 200;
+    font-size: 22px;
+}
+
+#phoneWord .phoneWord-r {
+    height: 45px;
+    margin-left: 20px;
+    float: right;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#phoneWord .phoneWord-r:hover {
+    color: orange;
+    border-bottom: 2px solid orange;
+}
+
+
+/* 家电 */
+#tel-html {
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+
+/* 左侧 */
+.tel-l {
+    float: left;
+    width: 234px;
+    height: 628px;
+}
+
+.tel-l ul {
+    width: 234px;
+    height: 628px;
+}
+
+.tel-l li {
+
+    width: 234px;
+    height: 300px;
+    margin-bottom: 14px;
+}
+
+.tel-l li img {
+    width: 100%;
+    height: 100%;
+}
+
+/* 右侧 */
+.tel-r {
+    float: left;
+    width: 992px;
+    height: 628px;
+}
+
+.tel-r ul li {
+    position: relative;
+    z-index: 1;
+    float: left;
+    padding: 20px 0;
+    width: 234px;
+    height: 260px;
+    margin-left: 14px;
+    margin-bottom: 14px;
+    background: #fff;
+    transition: all 0.1s linear;
+}
+
+.tel-r ul li:hover { 
+        box-shadow: 0px 0px 5px 0px gray;
+}
+
+.tel-r ul li a {
+    display: block;
+    height: 260px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+
+    text-align: center;
+}
+
+.tel-r ul li a img {
+    width: 160px;
+    height: 160px;
+
+}
+
+.tel-r ul li a h3 {
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.tel-r ul li a p {
+    margin: 0 10px 10px;
+    height: 18px;
+    font-size: 12px;
+    color: #b0b0b0;
+}
+
+.tel-r ul li a h4 {
+    color: #ff6700;
+    margin: 0 10px 14px;
+}

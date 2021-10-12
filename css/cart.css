@@ -1,0 +1,262 @@
+/* 1 头部 */
+#begin {
+    height: 40px;
+    background-color: #333;
+}
+
+#begin a:hover {
+    color: white;
+}
+
+#header {
+    height: 40px;
+
+}
+
+.header-left {
+    font-size: 12px;
+    height: 40px;
+    line-height: 40px;
+    float: left;
+}
+
+.header-left a,
+.header-right-1 a {
+    color: #b0b0b0;
+}
+
+#header .header-right-1 span,
+.header-left span {
+    margin: 0 0.3em;
+    color: #424242;
+}
+
+.header-right-1 {
+    position: relative;
+    font-size: 12px;
+    height: 40px;
+    line-height: 40px;
+    float: right;
+}
+
+#header .shopping {
+    margin-left: 15px;
+    position: relative;
+    height: 40px;
+    background: rgba(85, 85, 85, 0.3);
+    cursor: pointer;
+    z-index: 100;
+
+}
+
+#header .shopping:hover a {
+    color: red;
+}
+
+#header .cars {
+    position: absolute;
+    top: 40px;
+    left: -165px;
+    width: 227px;
+    height: 100px;
+    background-color: #ffffff;
+    box-shadow: 0 5px 3px rgba(0, 0, 0, .3);
+    font-size: 14px;
+    text-align: center;
+    line-height: 100px;
+    display: none;
+}
+
+/* .shopping:before {
+    font-family: 'icomoon';
+    content: "\e93a";
+} */
+
+#header #shopNum {
+    color: #b0b0b0;
+}
+
+/* 2 导航栏 nav */
+#nav {
+    height: 100px;
+}
+
+#nav .nav-icon a img {
+    float: left;
+    margin-top: 22px;
+    width: 56px;
+    height: 56px;
+}
+
+#nav .nav-ul {
+    height: 100px;
+    float: left;
+    margin-left: 160px;
+    font-size: 16px;
+    line-height: 100px;
+}
+
+#nav .nav-ul li {
+    float: left;
+    margin-right: 20px;
+}
+
+#nav .nav-ul li a:hover {
+    color: #ff6a00;
+}
+
+#nav .nav-btn img {
+    height: 50px;
+    width: 50px;
+}
+
+#nav .nav-div {
+    position: relative;
+    margin-top: 25px;
+    float: right;
+    width: 285px;
+    height: 50px;
+}
+
+#nav .nav-input {
+    /* float: right; */
+    width: 225px;
+    height: 45px;
+}
+
+#nav .nav-span {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 1px solid gray;
+    border-left: 0;
+    line-height: 50px;
+    text-align: center;
+    position: absolute;
+    top: 0px;
+}
+
+#nav .nav-span:hover {
+    background-color: orange;
+}
+
+/* 下拉菜单
+ */
+/* 下拉菜单 */
+.sou {
+    position: relative;
+    background-color: tomato;
+}
+
+.bigbox {
+    position: absolute;
+    width: 100%;
+    height: 250px;
+    border-top: 1px solid #ccc;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, .5);
+    display: none;
+    background-color: #FFFFFF;
+    z-index: 4000;
+}
+
+.bigbox .w {
+    height: 250px;
+}
+
+.bigbox li {
+    float: left;
+    width: 200px;
+    height: 250px;
+    padding: 20px 0;
+    text-align: center;
+    margin: 0;
+}
+
+.img {
+    width: 200px;
+    height: 150px;
+    border-right: 1px solid #E0E0E0;
+}
+
+.img img {
+    width: 197px;
+}
+
+.last {
+    border: 0;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.jiage {
+    font-size: 13px;
+    color: #FF4500;
+    margin-top: 10px;
+}
+
+/* 商品样式 */
+#cart-style {
+    height: 60px;
+    line-height: 60px;
+}
+
+#cart-style>p {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 60px;
+    color: #424242;
+    float: left;
+}
+
+#cart-style i {
+    font-size: 14px;
+    margin: 0 5px;
+}
+
+#cart-style span {
+    font-size: 14px;
+}
+
+#cart-style span:hover {
+    color: #ff6700;
+}
+
+#cart-style button {
+    float: right;
+    width: 120px;
+    margin-top: 15px;
+    height: 30px;
+    background-color: #ff6700;
+    border: 0;
+    color: white;
+}
+
+#cart-style ul{
+    float: right;
+}
+#cart-style li{
+    float: left;
+    
+    font-size: 14px;
+    margin:0 8px;
+}
+#cart-style li a{
+    color: #616161;
+}
+#cart-style li span{
+    font-size: 10px;
+    margin-left: 8px;
+}
+#cart-style li :hover{
+    color: #ff6700;
+}
+/* 图片 */
+#photo{
+    width: 100%;
+}
+#photo img{
+    width: 100%;
+}

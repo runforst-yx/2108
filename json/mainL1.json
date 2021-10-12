@@ -1,0 +1,21 @@
+[{
+        "id": 10,
+        "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3d47879ec183e25a36e67e0219636e60.jpg?thumb=1&w=265&h=340",
+        "src1": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/mixfold/banner.jpg",
+        "price": "9999  ",
+        "mesge1": "「米金兑换1000元优惠券；购机赠价值399元芳纶纤维保护壳」",
+        "mesge2": "8.01''折叠大屏｜澎湃C1自研专业影像芯片｜液态镜头｜1亿像素｜骁龙888｜67W快充｜5020mAh超大电池｜LPDDR5满血版｜WiFi6（增强版）｜哈曼卡顿立体声四扬声器",
+        "name": "小MIX FOLD 折叠屏手机",
+        "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1617098695.73526265.jpg"
+    },
+    {
+        "id": 11,
+        "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ca83e0294e7d725690b0576a1a4681e2.jpg?thumb=1&w=265&h=340",
+        "src1": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/mixfold/banner.jpg",
+        "price": "9999 ",
+        "mesge1": "「到手价17999元！12期免息！首装免费！」「小米电视焕新季」「价保30天，买贵补差」",
+        "mesge2": "全新一代OLED屏幕,原色屏Pro,1000nits峰值亮度,哈曼卡顿专业调校,双120Hz高刷屏",
+        "name": "MIX FOLD 折叠屏手机",
+        "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1617098695.73526265.jpg"
+    }
+]
