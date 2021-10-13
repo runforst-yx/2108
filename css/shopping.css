@@ -307,6 +307,7 @@
     line-height: 56px;
     color: #ff6700;
     margin-bottom: 30px;
+    border-bottom: 1px solid black;
 }
 
 .shopping-img-r>div>div {
