@@ -1,7 +1,8 @@
 /*****头部*********/
 // 鼠标经过购物车
 $(".shopping").hover(function () {
-    $(".cars").stop().slideDown()
+    $(".shopping-select").stop().slideDown()
+    // console.log($(".shopping-select"));
     $(this).css("background-color", "white")
     // console.log(12);
     // 获取购物车数据
@@ -9,13 +10,13 @@ $(".shopping").hover(function () {
     // console.log(cartG);
     if (!cartG) {
         // console.log(12);
-        let cars = document.querySelector('.cars');
+        let cars = document.querySelector('.shopping-select');
         cars.innerHTML = `<span class="cars-span">这里还什么都没有哦</span><ul class='cars-ul'>
                         
         </ul> `
     } else {
         let shopNum = document.querySelector('#shopNum');
-        let cars = document.querySelector('.cars');
+        let cars = document.querySelector('.shopping-select');
         // 购物车有数据的话，先把购物车清空 然后遍历商品 添加进去
         cars.innerHTML = '';
         // console.log(13);
@@ -29,6 +30,7 @@ $(".shopping").hover(function () {
             html += `<li class="cars-ul-li">
             <img src="${data.src}" alt="" class="cars-ul-img">
             <span class="cars-ul-span">${data.name}</span>
+            <span class="cars-ul-span1">${data.price}*${data.num}</span>
         </li>`
 
         });
@@ -37,7 +39,7 @@ $(".shopping").hover(function () {
         cars.innerHTML = `<ul class="cars-ul">${html}</ul>`;
     }
 }, function () {
-    $(".cars").stop().slideUp();
+    $(".shopping-select").stop().slideUp();
     $(this).css("background-color", "rgba(85, 85, 85, 0.3)")
 });
 

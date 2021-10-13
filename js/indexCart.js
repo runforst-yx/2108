@@ -57,7 +57,7 @@ telObj.forEach((m, n) => {
          Url = "hot";
       }
       axios.get(`./json/${Url}${n-0+1}.json`).then(data => {
-         console.log(Url);
+         // console.log(Url);
          //  console.log(data);
          let htmlUlLi = '';
          // 转换

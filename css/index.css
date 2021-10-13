@@ -54,27 +54,25 @@
 }
 
 
-#header .cars {
+#header .shopping-select {
+    width: 300px;
     position: absolute;
     top: 40px;
     left: -165px;
-    width: 227px;
-    /* height: 100px; */
-    background-color: #ffffff;
+    background-color: white;
     box-shadow: 0 5px 3px rgba(0, 0, 0, .3);
     font-size: 14px;
     text-align: center;
     line-height: 100px;
     display: none;
+    z-index: 3000;
 }
-
 #header .cars-ul {
     height: 100%;
-
 }
 
 #header .cars-ul li {
-    text-align: left;
+    text-align: center;
     width: 280px;
 }
 
