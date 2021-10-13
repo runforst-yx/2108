@@ -47,20 +47,23 @@ let loginObj = $$('#login');
 // console.log(location.search);
 // 判定 如果没有登录则给文字登录 如果登录了 获取登录网址后面附带的用户名然后赋值给a
 let logUser = location.search;
-loginObj.innerHTML = 'login';
-// console.log(logUser);
-logUser = logUser.split('?');
-// console.log(logUser[0]);
 if (logUser) {
+    logUser = logUser.split('?');
     // console.log(logUser);
     // console.log(logUser[1]);
     logUser = logUser[1].split('=');
     // console.log(logUser[1]);
     logUser = logUser[1];
-    console.log(logUser);
+    // console.log(logUser);
     loginObj.innerHTML = decodeURIComponent(logUser);
     loginObj.href = '';
+} else {
+    loginObj.innerHTML = 'login';
 }
+// console.log(logUser);
+
+// console.log(logUser[0]);
+
 
 /********* 注册页面*********/
 let registerObj = document.querySelector(".register");
