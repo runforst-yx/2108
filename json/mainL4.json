@@ -6,7 +6,8 @@
         "mesge1": "年轻人的酷玩具 / 骑行遥控两种玩法 / 22公里超长续航 / 轻、小、便携 / 重心驱动 / 15重安全保障",
         "mesge2": "年轻人的酷玩具 / 骑行遥控两种玩法 / 22公里超长续航 / 轻、小、便携 / 重心驱动 / 15重安全保障",
         "name": "九号平衡车",
-        "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/T1PXhgBbdT1RXrhCrK.jpg"
+        "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/T1PXhgBbdT1RXrhCrK.jpg",
+        "type": "黑色=白色?65英寸=75英寸?标准=套装"
     },
     {
         "id": 41,
@@ -16,6 +17,7 @@
         "mesge1": "",
         "mesge2": "AI智能场景识别 | 3D多维立体避障 | 双处理器 | 4000Pa超大吸力 | 智能电控水箱 | 新一代LDS激光导航系统",
         "name": "米家扫拖机器人 Pro",
-        "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1616905750.40579470.jpg"
+        "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1616905750.40579470.jpg",
+        "type": "黑色=白色?65英寸=75英寸?标准=套装"
     }
 ]

@@ -37,13 +37,34 @@ $('.bigbox').on({
 let imgPhotoObj = $$('.shopping-img-l>a>img');
 let cartStyleP = $$('#cart-style>p');
 let cartStylePSpan = $$("#cart-style>p>span");
+let shoppingBorder = $$('#shopping-border');
 let shoppingH2 = $$(".shopping-img-r>h2");
 let shoppingP = $$(".shopping-img-r>p")
 let shoppingH3 = $$(".shopping-img-r>h3");
 let shoppingBtn = $$(".shopping-img-r>button");
+let shoppingType = document.querySelectorAll('.shopping-img-r-type');
+// console.log(shoppingImgR);
+// console.log(shoppingType);
+shoppingBorder.onclick = function (eve) {
+    // console.log(shoppingBorder.children[0].children[0]);
+    // console.log(eve.target);
+    // eve.target.classList.add('shoppingImg-border');
+    for (let j = 0; j < 3; j++) {
+        if (eve.target == shoppingBorder.children[j].children[0]) {
+            eve.target.classList.add('shoppingImg-border');
+            shoppingBorder.children[j].children[1].classList.remove('shoppingImg-border');
+        };
+        if (eve.target == shoppingBorder.children[j].children[1]) {
+            eve.target.classList.add('shoppingImg-border');
+            shoppingBorder.children[j].children[0].classList.remove('shoppingImg-border');
+        };
+    }
+    console.log(shoppingBordernum);
+}
+
+// console.log(shoppingType[1].children[1]);
+// console.log(shoppingType);
 // console.log(imgPhotoObj);
-
-
 // console.log(imgPhotoObj);
 let pValue = location.search;
 // console.log(pValue);
@@ -63,18 +84,29 @@ pValueArrIdUrl = pValueArrIdUrl.split('=');
 // console.log(pValueArrIdUrl);
 // console.log(pValueArrId[1]);
 // console.log(pValueArrIdOrder[1]);
-console.log(pValueArrIdUrl[1]);
-console.log(pValueArrIdOrder[1]);
+// console.log(pValueArrIdUrl[1]);
+// console.log(pValueArrIdOrder[1]);
 axios.get(`./json/${pValueArrIdUrl[1]}${pValueArrIdOrder[1]}.json`).then(data => {
-    //  console.log(JSON.parse(data));
+    // console.log(JSON.parse(data));
     JSON.parse(data).forEach(function (v) {
         if (v.id == pValueArrId[1]) {
+            // console.log(v.type);
+            let type = v.type.split('?');
+            // console.log(type);
+            // console.log(type.length);
+            for (let j = 0; j < type.length; j++) {
+                type[j] = type[j].split('=');
+                // console.log(type[j][1]);
+                // console.log(shoppingType[j].children[1]);
+                shoppingType[j].children[0].innerHTML = type[j][0];
+                shoppingType[j].children[1].innerHTML = type[j][1];
+            }
             imgPhotoObj.src = v.shoppingImg
             cartStyleP.innerHTML = v.name;
             // console.log(cartStylePSpan);
             // console.log(v.intrduce);
             shoppingH2.innerHTML = v.name;
-            shoppingH3.innerHTML = `<span>总计:</span>` + v.price;
+            shoppingH3.innerHTML = `<span>总计:</span> ` + v.price;
             shoppingP.innerHTML = v.mesge1 + `<span>${v.mesge2}</span>`
             shoppingBtn.innerHTML = `<a href="shoppingCar.html" onclick="addCart('${v.id}','${v.name}','${v.src}','${v.price}',1)">加入购物车</a>`
         }

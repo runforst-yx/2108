@@ -254,7 +254,7 @@
 /* 购物车图片 */
 #shopping-img {
     margin-top: 5px;
-    height: 560px;
+    height: 650px;
 }
 
 .shopping-img-l {
@@ -271,11 +271,11 @@
 
 .shopping-img-r {
     width: 600px;
-    height: 560px;
+    height: 600px;
     float: right;
 }
 
-.shopping-img-r h2 {
+.shopping-img-r>h2 {
     height: 36px;
     margin: 0;
     padding: 0;
@@ -285,14 +285,14 @@
     margin-bottom: 8px;
 }
 
-.shopping-img-r p {
+.shopping-img-r>p {
     font-size: 12px;
     text-indent: 2em;
     color: #ff6700;
     margin-bottom: 20px;
 }
 
-.shopping-img-r p span {
+.shopping-img-r>p span {
     color: #b0b0b0;
     margin: 0;
     padding: 0;
@@ -301,7 +301,7 @@
     line-height: 1.5;
 }
 
-.shopping-img-r h3 {
+.shopping-img-r>h3 {
     height: 56px;
     font-size: 22px;
     line-height: 56px;
@@ -309,7 +309,43 @@
     margin-bottom: 30px;
 }
 
-.shopping-img-r button  {
+.shopping-img-r>div>div {
+    height: 56px;
+    font-size: 22px;
+    line-height: 56px;
+    margin-bottom: 30px;
+}
+
+.shopping-img-r>div>div>h5 {
+    text-align: center;
+    font-size: 18px;
+    float: left;
+    width: 290px;
+    display: block;
+
+}
+
+.shopping-img-r>div>div>h5:hover {
+    border: 1px solid red;
+}
+
+.shoppingImg-border {
+    border: 1px solid red;
+}
+
+.shopping-img-r>div>div>h6 {
+    font-size: 18px;
+    text-align: center;
+    float: right;
+    width: 290px;
+    display: block;
+}
+
+.shopping-img-r>div>div>h6:hover {
+    border: 1px solid red;
+}
+
+.shopping-img-r button {
     width: 300px;
     height: 54px;
     border: 0;
@@ -317,13 +353,15 @@
     font-size: 22px;
     color: white;
 }
-.shopping-img-r button a{
+
+.shopping-img-r button a {
     line-height: 54px;
     display: inline-block;
     width: 300px;
     height: 54px;
     color: white;
 }
+
 .shopping-img-r ul {
     height: 82px;
     margin-top: 10px;

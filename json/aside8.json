@@ -1,241 +1,266 @@
 [{
     "id": 301,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50194366cfebbc7c82489d0094c1f944.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "4999",
     "mesge1": "「到手价4999元！3期免息！」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "4K OLED,更薄更清晰,0nit极夜黑,低蓝光认证,全场景互联",
     "name": "小米电视6 55″OLED",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628162325.83013542.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628162325.83013542.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 302,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50194366cfebbc7c82489d0094c1f944.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "6999 ",
     "mesge1": "「到手价6999元！3期免息！」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "4K OLED,更薄更清晰,0nit极夜黑,低蓝光认证,全场景互联",
     "name": "小米电视6 65″OLED",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628162373.00133777.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628162373.00133777.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
+
 },
 {
     "id": 303,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b91c9ef670fa1c12eddf23b209f9ff33.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "17999 ",
     "mesge1": "「到手价17999元！12期免息！首装免费！」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "全新一代OLED屏幕,原色屏Pro,1000nits峰值亮度,哈曼卡顿专业调校,双120Hz高刷屏",
     "name": "小米电视 大师 77 OLED",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628162459.67483588.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1628162459.67483588.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 304,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aa3954f817a23443c0b6b523ebbd09f6.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "5799 ",
     "mesge1": "「到手价5799元！12期免息！」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "星幕锐影 百级分区背光系统 4KQLED 双120Hz高刷屏",
     "name": "小米电视6 至尊版 55英寸",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624606020.36169148.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624606020.36169148.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 305,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aa3954f817a23443c0b6b523ebbd09f6.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "7799 ",
     "mesge1": "「到手价7799元！12期免息！」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "星幕锐影 百级分区背光系统 4KQLED 双120Hz高刷屏",
     "name": "小米电视6 至尊版 65英寸",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624606486.69286556.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624606486.69286556.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 306,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aa3954f817a23443c0b6b523ebbd09f6.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "9999 ",
     "mesge1": "「到手价9999元！12期免息！」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "星幕锐影 百级分区背光系统 4KQLED 双120Hz高刷屏",
     "name": "小米电视6 至尊版 75英寸",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624606559.36563960.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624606559.36563960.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 307,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1c0d83dd59a3dd91372d867864b35554.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "1799 ",
     "mesge1": "「到手价1799元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "4K超高清，MEMC动态补偿，金属全面屏，远场语音控制",
     "name": "小米电视 ES43 2022款",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1626921302.25262188.png"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1626921302.25262188.png",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 308,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1c0d83dd59a3dd91372d867864b35554.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "2999 ",
     "mesge1": "「到手价2999元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "星幕锐影，多分区背光系统/高亮度原色屏/MEMC运动补偿/杜比视界/金属全面屏/远场语音",
     "name": "小米电视 ES55 2022款",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624605269.97132825.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624605269.97132825.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 309,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1c0d83dd59a3dd91372d867864b35554.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "3999",
     "mesge1": "「到手价3999元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "星幕锐影，多分区背光系统/高亮度原色屏/MEMC运动补偿/杜比视界/金属全面屏/远场语音",
     "name": "小米电视 ES65 2022款",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624605336.44844432.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624605336.44844432.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 310,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1c0d83dd59a3dd91372d867864b35554.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "5999 ",
     "mesge1": "「到手价5999元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "星幕锐影，多分区背光系统/高亮度原色屏/MEMC运动补偿/杜比视界/金属全面屏/远场语音",
     "name": "小米电视 ES75 2022款",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624605397.58224540.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1624605397.58224540.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 311,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/319700f48d268f522664e1fc876b0044.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "1299 ",
     "mesge1": "「到手价1299元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "全面屏设计/无边视野/世界精彩一览无余",
     "name": "全面屏电视E43K",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1589855374.71192668.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1589855374.71192668.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 312,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d219d8b9c4a74eda4ae6c0222d194cd2.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "2599 ",
     "mesge1": "「到手价2599元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "时尚金属全面屏设计 / 搭载Amlogic T972超强悍处理器 / 4K超高清画质 细腻如真 / 支持8K视频解码 / 2G+32G超大存储 / 内置小爱同学 语音控制更方便 / 智能Patchwall汇聚海量好内容",
     "name": "小米全面屏电视Pro 55英寸 E55S",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1569249650.12966241.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1569249650.12966241.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 313,
     "src": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/554a4f8ea0c2c3ed19d843bea7321203.jpg?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "379 ",
     "mesge1": "",
     "mesge2": "MIUI for TV智能操作系统/蓝牙语音遥控器/8K视频解码/2GB内存+16GB闪存",
     "name": "小米盒子4S Pro",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1603699271.60063745.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1603699271.60063745.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 314,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7da49e7ada2229c963c9c7353a58d49b.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "9999 ",
     "mesge1": "「到手价9999元！24期免息！赠价值499元小米高保真智能音箱Sound！」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "10.7亿原色显示 / 98.5%DCI-P3广色域 / 120Hz流速屏 / AI大师引擎 / 3D全景声，音响系统",
     "name": "小米电视 大师 65英寸OLED",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1593671513.90269727.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1593671513.90269727.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 315,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/da1680fb62238cb5b01998d80fc34e25.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "4999  ",
     "mesge1": "「到手价4999元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "AI金属全面屏电视 / 4K超高清画质 细腻如真 / 支持8K视频解码/ 2G+32G超大存储",
     "name": "小米全面屏电视Pro 75英寸 E75S",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585881755.76247599.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1585881755.76247599.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 316,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1df560d16cc983b0f34d24fc484bd697.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "2599 ",
     "mesge1": "「到手价2599元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "4K HDR 超高清画质 / 人工智能语音系统 / 2G+8G大存储空间 / 海量视频好内容 / 64位四核高性能处理器",
     "name": "小米电视4A 60英寸",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1586362097.37717048.png"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1586362097.37717048.png",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 317,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/070b329c18c1ab167df2a42564a67813.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "2599 ",
     "mesge1": "「到手价2599元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "全金属边框/全面屏97%高屏占比/4K超高清/MEMC运动补偿",
     "name": "Redmi 智能电视 X55",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590401441.40816968.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1590401441.40816968.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 318,
     "src": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8aeae36f5d088f22c84b8953bd0d08b4.jpg?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "2599",
     "mesge1": "「到手价2599元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "时尚金属全面屏设计 / 搭载Amlogic T972超强悍处理器 / 4K超高清画质 细腻如真 / 支持8K视频解码 / 2G+32G超大存储 / 内置小爱同学 语音控制更方便 / 智能Patchwall汇聚海量好内容",
     "name": "小米全面屏电视Pro 55英寸 E55S",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1569249648.53373412.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1569249648.53373412.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 319,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ce75f4a3fef148b6729061a18f994aa7.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "4999",
     "mesge1": "",
     "mesge2": "2400 ANSI 流明 / 支持侧投 / 远场语音 / ALPD 3.0激光显示技术 / 150英寸巨幕画面 / 高保真音响 / MIUI for TV / 漫反射护眼",
     "name": "米家激光投影仪",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1575892416.39783184.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1575892416.39783184.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 320,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9d649ec3d7d14da7090e396d56b7cc92.jpg?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "17999",
     "mesge1": "「到手价17999元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "客厅里的巨幕影院 大视野带来超震撼的沉浸感/4K HDR超高清画质 逼真画面栩栩如生/杜比+DTS双解码 清澈立体的声音环绕整个客厅/MEMC运动补偿 无拖尾无重影/4G+64G大存储 畅快不卡顿/海量片源 观影更爽/智能家居控制中心",
     "name": "Redmi 智能电视 MAX 98",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584958755.2476898.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1584958755.2476898.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 321,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d707cdac2a19703b57e65212f32fd25b.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "6499 ",
     "mesge1": "「到手价6499元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "全面屏设计 / 金属机身 / 4K广色域屏幕 /纤薄机身 / 内置小爱同学 / 3GB+32GB大存储 / 支持8K视频内容",
     "name": "小米电视5 75英寸",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1572837172.26273944.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1572837172.26273944.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 322,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6797917392e912577135d9eb8ad92f1f.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "3299 ",
     "mesge1": "「到手价3299元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "70英寸震撼巨屏 / 4K画质 细腻如真 / 杜比音效 身临其境 / PatchWall智能系统 内置小爱同学 / 海量好内容",
     "name": "小米电视4A 70英寸 ",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568199413.36224361.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1568199413.36224361.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 323,
     "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8cb5791161d8b25897f60385f0ec7ab2.png?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "4299 ",
     "mesge1": "「到手价4299元！ 」「小米电视焕新季」「价保30天，买贵补差」",
     "mesge2": "75英寸沉浸体验 / 4K HDR / 金属机身 / 杜比+DTS / 海量片源 / PatchWall人工智能语音系统 / 语音遥控器 / 丰富接口",
     "name": "小米电视4S 75英寸",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1542712545.60216346.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1542712545.60216346.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 },
 {
     "id": 324,
     "src": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5732e8f317eb86bfcb174fbb49d00c4a.jpg?thumb=1&w=45&h=45",
-    "src1":"https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
+    "src1": "https://i1.mifile.cn/f/i/2019/mitv5pro/75/section01_bg.jpg",
     "price": "12999 ",
     "mesge1": "",
     "mesge2": "超短焦 / 100英寸超大抗光硬屏 / ALPD 3.0 激光光源技术 / 色域宽、亮度高，3000：1 原生对比度 / 小米电视相同内容源",
     "name": "米家激光投影电视套装 （1080P版）",
-    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562817944.18945176.jpg"
+    "shoppingImg": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562817944.18945176.jpg",
+    "type": "黑色=白色?65英寸=75英寸?标准=套装"
 }
 ]

@@ -66,7 +66,7 @@ axios.get(`./json/${pValueArrIdUrl[1]}${pValueArrIdOrder[1]}.json`).then(data =>
     // console.log(JSON.parse(data));
     JSON.parse(data).forEach(function (v, i) {
         // console.log(pValueArrId[1]);
-        console.log(v);
+        // console.log(v);
         // console.log(v.src1);
         if (v.id == pValueArrId[1] && v.src1) {
             imgPhotoObj.src = v.src1;
