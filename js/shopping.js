@@ -59,7 +59,7 @@ shoppingBorder.onclick = function (eve) {
             shoppingBorder.children[j].children[0].classList.remove('shoppingImg-border');
         };
     }
-    console.log(shoppingBordernum);
+
 }
 
 // console.log(shoppingType[1].children[1]);
