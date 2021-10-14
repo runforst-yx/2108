@@ -50,17 +50,24 @@ let pValueArrId = pValueArr[0];
 // console.log(pValueArrId);
 let pValueArrIdOrder = pValueArr[1];
 // console.log(pValueArrIdOrder);
-let pValueArrIdUrl = pValueArr[2];
+let pValueArrIdUrl = '';
+if (pValueArr[2]) {
+    pValueArrIdUrl = pValueArr[2];
+    pValueArrIdUrl = pValueArrIdUrl.split('=');
+    // console.log(pValueArrIdUrl[1]);
+};
+// if()
+
 // console.log(pValueArrIdUrl);
 // console.log(pValueArr[1]);
 pValueArrId = pValueArrId.split('=');
 pValueArrIdOrder = pValueArrIdOrder.split('=');
-pValueArrIdUrl = pValueArrIdUrl.split('=');
+
 // console.log(pValueArrIdUrl);
 // console.log(pValueArrId[1]);
 // console.log(pValueArrIdOrder[1]);
-console.log(pValueArrIdUrl[1]);
-console.log(pValueArrIdOrder[1]);
+// console.log(pValueArrIdUrl[1]);
+// console.log(pValueArrIdOrder[1]);
 // 只需要其中的id order url
 axios.get(`./json/${pValueArrIdUrl[1]}${pValueArrIdOrder[1]}.json`).then(data => {
     // console.log(JSON.parse(data));

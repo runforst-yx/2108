@@ -19,6 +19,8 @@ telObj.forEach((m, n) => {
    telRObjChild[2].style.color = "orange";
    telRObjChild[2].style.borderBottom = "2px solid orange";
 
+
+
    // 侧边页面
    axios.get(`./json/mainL${n+1}.json`).then(data => {
       // console.log(data);
@@ -28,13 +30,18 @@ telObj.forEach((m, n) => {
       JSON.parse(data).forEach(function (v, i) {
          // console.log(v.src);
          htmlUlLi += `
-         <li><a href="cart.html?id=${v.id}&order=${n-0+1}"><img src="${v.src}" alt=""></a></li>`;
+         <li><a href="cart.html?id=${v.id}&order=${n-0+1}&url=mainL"><img src="${v.src}" alt=""></a></li>`;
       });
       //  console.log(htmlUlLi);
       telLObjChild.innerHTML = htmlUlLi;
    });
+
+
+
+
    //   主页面
    // 鼠标移入事件
+   // console.log(telRObj[0]);
    telRObj[0].onmouseover = function (eve) {
       // console.log(eve.target);
       // console.log(telRObjChild[1]);
@@ -75,6 +82,8 @@ telObj.forEach((m, n) => {
       });
 
    };
+
+
    axios.get(`./json/${Url}${n+1}.json`).then(data => {
       // console.log(Url);
       let htmlUlLi = '';
@@ -93,7 +102,7 @@ telObj.forEach((m, n) => {
       //  console.log(htmlUlLi);
       telUlObj.innerHTML = htmlUlLi;
    });
- 
+
 
 });
 
