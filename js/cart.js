@@ -1,4 +1,4 @@
-/*****头部*********/
+
 // 鼠标经过购物车
 $(".shopping").hover(function () {
     $(".cars").stop().slideDown()
